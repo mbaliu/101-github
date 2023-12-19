@@ -5,14 +5,19 @@ Anotações sobre ideias de como escrever um README no github
 
 * Componentes do README
     1. O Problema (The Task)
+        * Introdução
+        * Objetivo
     2. Tabela de Conteúdos (Table of contents of this repository)
     3. Solução (The Solution)
+        * Metodologia
         * Como rodar
+        * Resultados
     4. Melhorias Futuras
        * No código de base (To the code base)
        * Para fins analíticos (For analytical purpose)
     5. Changelog
         * Versão simples de Changelog
+    6. Contribuidores
        
   
 ### Padrões de README
