@@ -11,6 +11,8 @@ Anotações sobre ideias de como escrever um README no github
     4. Melhorias Futuras
        * No código de base (To the code base)
        * Para fins analíticos (For analytical purpose)
+    5. Changelog
+        * Versão simples de Changelog
        
   
 ### Padrões de README
@@ -21,3 +23,6 @@ Anotações sobre ideias de como escrever um README no github
    * README-Tech: aspectos da implemtação e da instalação
   
 ## .gitignore
+
+* [Modelo mais comum para meu uso](./references/.gitignore)
+* [Modelo generalista](https://github.com/github/gitignore/blob/main/Python.gitignore)
